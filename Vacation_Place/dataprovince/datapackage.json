@@ -1,0 +1,40 @@
+{
+  "author": {
+    "email": "kamol.muenyut@royin.mail.go.th",
+    "name": "กมล หมื่นยุทธ (026126060)"
+  },
+  "description": "ชื่อจังหวัดในประเทศไทยเขียนด้วยอักษรไทยและอักษรโรมัน",
+  "license": {
+    "title": "DGA Open Government License",
+    "type": "ogl"
+  },
+  "name": "item_a03fe520-889c-4742-96b0-427ea4950936",
+  "resources": [
+    {
+      "description": "ชื่อจังหวัด",
+      "format": "CSV",
+      "hash": "9dff11d83ccaaa984e215c7b94111aba",
+      "name": "chuue-cchanghwad",
+      "path": "https://opendata.data.go.th/dataset/a67f6732-20c0-4425-8d34-612ebd11102c/resource/a5448f80-e080-4a4a-a0f8-d6ba6a86ab6d/download/romanized_province.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "province_id",
+            "type": "number"
+          },
+          {
+            "name": "thai_province",
+            "type": "string"
+          },
+          {
+            "name": "romanized_province",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "ชื่อจังหวัด"
+    }
+  ],
+  "title": "ชื่อจังหวัดในประเทศไทย (อักษรไทยและอักษรโรมัน)",
+  "version": "1.0"
+}

@@ -1,0 +1,7 @@
+1. Download and Install PyCharm, python3 (any version)
+2. Extract zip file
+3. Open ProjectTNIFoodOrder with PyCharm
+4. pip Install : PyQt5, dnspython(pip install dnspython), pymongo ,qt chart
+5. run Fristpage
+
+datebase is mongodb atlas
